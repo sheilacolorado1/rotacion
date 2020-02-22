@@ -1,0 +1,18 @@
+.block{
+    display: flex;
+    justify-content: center;
+    background-color: palevioletred;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(214, 170, 185);
+}
+
+.box{
+    background: ;
+    width:;
+    height: ;
+
+}
