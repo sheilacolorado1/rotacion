@@ -14,3 +14,9 @@ img:hover{
     top: 0px;
     right: 0;
 }
+
+.titulo {
+    color: pink;
+    font-weight: bold;
+    font-size: 20px
+}
